@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "saitannuestra@gmail.com",
-    "password": "Gabrielyuan0728",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Macky bot [ ! ]",
+  "nickNameBot": "F U R Y [ ! ]",
   "prefix": "!",
   "database": {
     "type": "sqlite",
